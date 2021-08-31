@@ -9,6 +9,9 @@
 
 [Soft_Shadow_Maps](https://github.com/NadiaAzri/Cascaded_Soft_Shadow_maps/tree/main/Soft_Shadow_Maps) file for Schwärzler’s method.
 
+Basic code from [3dcpptutorials](http://www.3dcpptutorials.sk/index.php?id=27) 
+
+## The technique.
 Physically accurate soft shadows in real-time applications can be imitated by subdividing the area light source into multiple samples and creating a shadow map for each sample and then accumulating them. 
 
 ![](Images/3_5.png) 
