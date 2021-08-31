@@ -5,6 +5,10 @@
 
 **Language used is C++, Opengl Version 2.02, GLSL Version 120. / Visual Studio 2010.**
 
+[Cascaded_Soft_Shadow_Maps](https://github.com/NadiaAzri/Cascaded_Soft_Shadow_maps/tree/main/Cascaded_Soft_Shadow_Maps) file for our technique.
+
+[Soft_Shadow_Maps](https://github.com/NadiaAzri/Cascaded_Soft_Shadow_maps/tree/main/Soft_Shadow_Maps) file for Schwärzler’s method.
+
 Physically accurate soft shadows in real-time applications can be imitated by subdividing the area light source into multiple samples and creating a shadow map for each sample and then accumulating them. 
 
 ![](Images/3_5.png) 
