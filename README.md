@@ -1,7 +1,7 @@
 # Computer Graphics
 ## Cascaded Soft Shadow Maps Based on PCF Filtering
 
-![result](3_16.png) 
+![result](Images/3_16.png) 
 
 Physically accurate soft shadows in real-time applications can be imitated by subdividing the area light source into multiple samples and creating a shadow map for each sample and then accumulating them. 
 
